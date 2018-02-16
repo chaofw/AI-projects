@@ -10,3 +10,6 @@ The training data is included in train.csv
 
 The validation date is included in test.csv
 
+Tool used:
+scikit-learn, pandas, seaborn
+
